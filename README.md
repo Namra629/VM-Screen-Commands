@@ -35,13 +35,17 @@
    
         screen -S renamed_session -X quit
 
+         # kill my PID
 
-10.  Scrollback / Scroll up
+            kill <PID>
+
+
+11.  Scrollback / Scroll up
 
           Inside screen: Ctrl+A then [ 
 
 
-11.  Split screen (multi-region)
+12.  Split screen (multi-region)
 
               Inside screen:
 
@@ -54,7 +58,7 @@
                Ctrl+A then X to close region
 
 
-12.  Window management
+13.  Window management
 
             "Inside screen:"
      
