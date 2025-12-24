@@ -45,9 +45,11 @@
 
               Inside screen:
 
-               Ctrl+A then S to split horizontally,
+               Ctrl+A then S to split horizontally
+
+               Ctrl+A then | to split vertically
     
-               Ctrl+A then Tab to switch,
+               Ctrl+A then Tab to switch
     
                Ctrl+A then X to close region
 
