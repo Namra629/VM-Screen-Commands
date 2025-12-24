@@ -43,23 +43,29 @@
 
 11.  Split screen (multi-region)
 
-              Inside screen: Ctrl+A then S to split horizontally, Ctrl+A then Tab to switch, Ctrl+A then X to close region
+              Inside screen:
+
+               Ctrl+A then S to split horizontally,
+    
+               Ctrl+A then Tab to switch,
+    
+               Ctrl+A then X to close region
 
 
-12.  Window management
+13.  Window management
 
             "Inside screen:"
+     
             "- Ctrl+A then C : create new window"
              "- Ctrl+A then N : next window"
              "- Ctrl+A then P : previous window"
              "- Ctrl+A then <number> : go to specific window"
 
 
-13.  Logging
+15.  Logging
     
          "Inside screen: Ctrl+A then H to start logging"
-         "Ctrl+A then H again to stop logging. Output saved as screenlog.<n>"
+         "Ctrl+A then H again to stop logging. Output saved as screenlog.<n>"  where <n> means .txt (file format)
 
 
 
-echo "You can explore the session with 'screen -r renamed_session' or check output files like screen_output.txt"
