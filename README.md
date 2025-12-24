@@ -54,7 +54,7 @@
                Ctrl+A then X to close region
 
 
-13.  Window management
+12.  Window management
 
             "Inside screen:"
      
@@ -64,10 +64,7 @@
              "- Ctrl+A then <number> : go to specific window"
 
 
-15.  Logging
-    
-         "Inside screen: Ctrl+A then H to start logging"
-         "Ctrl+A then H again to stop logging. Output saved as screenlog.<n>"  where <n> means .txt (file format)
+
 
 
 
